@@ -1,0 +1,12 @@
+3
+insert_100
+insert_22
+insert_31321
+insert_32
+insert_37
+insert_90
+insert_50
+insert_6
+insert_7
+print
+end

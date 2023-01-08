@@ -1,0 +1,13 @@
+3
+insert_25
+insert_15
+insert_35
+insert_45
+insert_5
+insert_15
+insert_20
+insert_30
+insert_55
+delete_5
+print
+end

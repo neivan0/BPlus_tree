@@ -1,0 +1,9 @@
+3
+insert_5
+insert_3
+insert_6
+insert_2
+insert_7
+delete_7
+print
+end
